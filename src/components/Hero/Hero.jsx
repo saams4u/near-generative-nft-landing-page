@@ -2,7 +2,7 @@
 import React from 'react';
 import { ReactSVG } from 'react-svg';
 import CalendarBtn from './CalendarBtn';
-import guildFighter from '../../assets/images/guildfighter.gif';
+import guildFighter from '../../assets/images/hero-big-cat.svg';
 import bgEllipse from '../../assets/images/hero-ellipse.svg';
 import bgCloud1 from '../../assets/images/hero-cloud1.svg';
 import bgCloud2 from '../../assets/images/hero-cloud2.svg';
