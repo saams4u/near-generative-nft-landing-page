@@ -19,11 +19,10 @@ const Footer = () => {
         <ReactSVG className="footer__logo" src={logo} />
 
         <p className="footer__text">
-          Nearkat NFTs are built on top of NEAR Protocol, where minting NFTs
-          cost less than a cent per item.
+          Guild Fighter NFTs are built on top of ETHEREUM Blockhain.
         </p>
         <p className="footer__copyright ">
-          © 2021 Nearkat Guild. All Rights Reserved.
+          © 2022 Guild Fighters. All Rights Reserved.
         </p>
       </div>
     </footer>
